@@ -40,5 +40,7 @@ On my GitHub, you can explore a variety of my projects, from interactive charts 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakash-gaurav&show_icons=true&locale=en&theme=cobalt" alt="prakash-gaurav" /></p>
 
 ## 🔥 Contribution Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakash-gaurav&" alt="prakash-gaurav" /></p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakash-gaurav&theme=vue-dark&hide_border=true" alt="prakash-gaurav" />
+</p>
 
