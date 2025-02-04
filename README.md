@@ -17,7 +17,7 @@ On my GitHub, you can explore a variety of my projects, from interactive charts 
 
 - 🔭 I’m currently working on **Machine Learning Model**
 
-- 🌱 I’m currently learning **Python, PowerBI**
+- 🌱 Polishing s **Python, PowerBI**
 
 - 💬 Ask me about **Machine Learning**
 
@@ -34,10 +34,10 @@ On my GitHub, you can explore a variety of my projects, from interactive charts 
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakash-gaurav&langs_count=5&theme=vision-friendly-dark&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakash-gaurav&langs_count=5&theme=cobalt&layout=compact" alt="Top Languages" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakash-gaurav&show_icons=true&locale=en&theme=vision-friendly-dark" alt="prakash-gaurav" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakash-gaurav&show_icons=true&locale=en&theme=cobalt" alt="prakash-gaurav" /></p>
 
 ## 🔥 Contribution Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakash-gaurav&" alt="prakash-gaurav" /></p>
