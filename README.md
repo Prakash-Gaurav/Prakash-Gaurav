@@ -37,9 +37,8 @@ On my GitHub, you can explore a variety of my projects, from interactive charts 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakash-gaurav&langs_count=5&theme=vision-friendly-dark&layout=compact" alt="Top Languages" />
 </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakash-gaurav&show_icons=true&locale=en&theme=vision-friendly-dark" alt="prakash-gaurav" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakash-gaurav&show_icons=true&locale=en" alt="prakash-gaurav" /></p>
-
-## 📊 GitHub Stats
+## 🔥 Contribution Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakash-gaurav&" alt="prakash-gaurav" /></p>
 
