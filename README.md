@@ -41,7 +41,7 @@ On my GitHub, you can explore a variety of my projects, from interactive charts 
 
 
 ## 🔥 Contribution Stats
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakash-gaurav&theme=vue-dark&hide_border=true" alt="prakash-gaurav" />
 </p>
 
