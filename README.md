@@ -23,7 +23,7 @@ On my GitHub, you can explore a variety of my projects, from interactive charts 
 
 - 📫 How to reach me **prakashgaurav98@gmail.com**
 
-- ⚡ Fun fact **I am funny and Sarcastic.**
+- ⚡ Fun fact **I love to sketch and explore new technologies. When I'm not coding, you'll find me with a sketchbook or experimenting with new tech gadgets. I am funny and Sarcastic.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
