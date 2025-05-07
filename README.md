@@ -4,8 +4,8 @@
 </h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-"I am an aspiring Data Analyst passionate about Python, MySQL, Machine Learning and data storytelling. 
-I focus on making the data tell a story and can bring insights from the data provided. Join me on a quest to drive business growth, optimize performance, and uncover hidden insights."
+"An aspiring Data Analyst passionate about Python, MySQL, Machine Learning and data storytelling, with 
+a focus on making the data tell a story and can bring insights from the data provided. Join me on a quest to drive business growth, optimize performance, and uncover hidden insights."
 
 On my GitHub, you can explore a variety of my projects, from interactive charts to analytical tools. Each project showcases different aspects of my work and my approach to solving data problems.
 
